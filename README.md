@@ -4,6 +4,7 @@ This python script can be used to extract collision triangles from Super Monkey 
 ## Usage
 lz2obj.py <filename>.lz.raw
 - outputs triangles into <filename>.lz.raw.obj
+
 lz2obj.py <filename>.lz.raw <outputname>.obj
 - output triangles into specified output file
 
