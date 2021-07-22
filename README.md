@@ -10,6 +10,7 @@ lz2obj.py <filename>.lz.raw <outputname>.obj
 
 ## dependencies
 You'll need to install numpy if you dont have it.
+
 `pip install numpy`
 
 ## have fun
