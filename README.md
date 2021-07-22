@@ -8,10 +8,10 @@ lz2obj.py <filename>.lz.raw
 lz2obj.py <filename>.lz.raw <outputname>.obj
 - output triangles into specified output file
 
-## dependencies
+## Dependencies
 You'll need to install numpy if you dont have it.
 
 `pip install numpy`
 
-## have fun
+## Have Fun
 This hasn't been tested much so it probably has bugs lol
